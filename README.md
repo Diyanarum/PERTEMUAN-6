@@ -1,4 +1,4 @@
-# pertemuan6_smt1
+# PERTEMUAN 6
 Repository ini di buat untuk memenuhi tugas bahasa pemrograman pertemuan ke 6 <br> <br>
 Nama  : Diyan Arum M<br>
 Nim   : 312010133<br>
