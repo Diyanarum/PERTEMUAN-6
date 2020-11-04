@@ -106,7 +106,7 @@ Keterangan :
 1. Fungsi huruf *f* pada perintah print(f"....") adalah fungsi print atau bisa memudahkan programer dalam mencetak statement dalam satu baris dibandingkan dengan metode yang lama yaitu memisahkan string dan variable dengan simbol koma( , ) atau plus ( + )<br>
 2. sedangkan fungsi {} pada output tersebut adalah untuk menampilkan hasil dari variable<br>
 Hasil dari output tersebut seperti berikut :<br>
-![All output](gambar/all_output.PNG)
+![4](https://user-images.githubusercontent.com/72906579/98073825-c2174080-1e9b-11eb-9ac1-1febcfd57b9a.png)
 
 <br>
 ---
@@ -210,7 +210,7 @@ hasil dari syntax / source code diatas adalah seperti berikut ini : <br>
 String formatting atau pemformatan string memungkinan kita menyuntikkan item kedalam string dari pada kita mencoba menggabungkan string menggunakan koma atau string concatenation.<br>
 
 Penggunaan source code yang di berikan oleh dosen seperti berikut :
-![Lab 1-2](gambar/Lab1-2.PNG)
+![Lab1-2](https://user-images.githubusercontent.com/72906579/98077922-ab74e780-1ea3-11eb-9a0f-af6e704ccd67.png)
  ```python
 #string format 1
 print(0, 10**0)
