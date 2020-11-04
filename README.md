@@ -307,14 +307,15 @@ Kita akan terfokus pada variable a dan b. <br>
 Pada line 1 tertulis syntax : a=input("masukan nilai a : ") <br>
 Sedangkan pada line 2 tertulis syntax : b=input("masukan nilai b : ") <br>
 Untuk membuat inputan berupa interger/angka harus ditambahkan syntax int() pada format input(). yang seharusnya ditulis adalah : <br>
- python
+``` python
 a=int(input("masukkan nilai a:"))
 b=int(input("masukkan nilai b:"))
+```  
   
 <br>
 Kita akan ulangi semua syntax pada file ini, maka tulis seperti ini :<br>
 
- python
+``` python
 a=int(input("masukkan nilai a:"))
 b=int(input("masukkan nilai b:"))
 print("variable a=",a)
@@ -326,6 +327,7 @@ a=int(a)
 b=int(b)
 print("hasil pejumlahan {1}+{0}=%d".format(a,b) %(a+b))
 print("hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))
+```
 
 Kita akan coba lagi untuk run file tersebut, maka akan muncul seperti gambar dibawah ini :<br>
  ![13](https://user-images.githubusercontent.com/72906579/98073842-c6435e00-1e9b-11eb-9c7b-e4524638c488.png)
