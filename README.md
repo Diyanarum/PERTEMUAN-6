@@ -1,4 +1,3 @@
-pertemuan5
 # pertemuan6_smt1
 Repository ini di buat untuk memenuhi tugas bahasa pemrograman pertemuan ke 6 <br> <br>
 Nama  : Diyan Arum M<br>
@@ -336,6 +335,5 @@ Kita akan coba lagi untuk run file tersebut, maka akan muncul seperti gambar dib
  Setelah semua file berhasil disimpan dan dijalankan berhasil, maka selesai sudah Tugas pertemuan 6 - Bahasa pemrograman kali ini.
  <br>
  
- ### ============= THANKS FOR YOUR ATTENTION!!! ============= <br>
- ### DIYAN ARUM M / 312010133 / TI.20 A.1 <br>
- ### =================================== <br>
+ ###THANKS FOR YOUR ATTENTION!!! <br>
+ ###DIYAN ARUM M / 312010133 / TI.20 A.1 <br>
