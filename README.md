@@ -280,6 +280,7 @@ Untuk hasil dari String Format 2 adalah :<br>
 Untuk pembahasan terakhir, kali ini akan menyelesaikan tugas Lab 2 dari Dosen, yaitu konversi Nilai Variable<br>
 Tugas 
 ![11](https://user-images.githubusercontent.com/72906579/98073838-c5123100-1e9b-11eb-8f98-b9169d72f107.png)
+
  ```python
 a=input("masukkan nilai a : ")
 b=input("masukkan nilai b : ")
@@ -336,6 +337,7 @@ Kita akan coba lagi untuk run file tersebut, maka akan muncul seperti gambar dib
  <hr>
  Setelah semua file berhasil disimpan dan dijalankan berhasil, maka selesai sudah Tugas pertemuan 6 - Bahasa pemrograman kali ini.
  <br>
+ 
  
   ###   ===THANKS FOR YOUR ATTENTION!!!===
   ### ==DIYAN ARUM M / 312010133 / TI.20 A.1==
